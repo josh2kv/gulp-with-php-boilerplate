@@ -42,11 +42,11 @@
 
 ## Usage
 
--   For local development
+-   Development
     ```sh
     npm run dev
     ```
--   For deploying
+-   Deployment
     ```sh
     npm run publish
     ```
