@@ -1,6 +1,6 @@
 # php-gulp-boilerplate
 
-> Gulp boilerplate for PHP project
+Gulp boilerplate for PHP project
 
 ## Getting Started
 
